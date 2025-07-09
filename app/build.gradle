@@ -35,5 +35,5 @@ dependencies {
     implementation 'com.google.mlkit:text-recognition:16.0.0'
 
     // Tesseract tess-two
-    implementation 'org.jetbrains.tess-two:tess-two:9.1.0'
+    implementation 'com.rmtheis:tess-two:9.1.0'
 }
