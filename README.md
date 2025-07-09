@@ -9,7 +9,7 @@ Direktori `app/` berisi konfigurasi Gradle serta kode sumber Android. `MainActiv
 
 ## Persyaratan
 - Android Studio 4.0 atau lebih baru
-- Gradle versi 7.0 atau lebih baru
+- Gradle versi 8.0 atau lebih baru
 - Minimum SDK 21
 
 ## Cara Menjalankan
